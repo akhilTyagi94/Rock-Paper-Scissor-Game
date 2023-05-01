@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor-Game
-A game with which we are familiar with since our childhood. A game of chance which kept on helping us in making small decisions. The game is called Rock Paper Scissors.
+This is a simple implementation of the classic rock paper scissors game built using JavaScript. The game allows a player to choose one of three options (rock, paper, or scissors) and then plays against the computer, which also chooses an option at random. The winner is determined based on a simple set of rules: rock beats scissors, paper beats rock, and scissors beats paper.
 
 Codepen : https://codepen.io/BadBorn/full/rNqzeob
 
